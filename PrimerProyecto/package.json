@@ -1,0 +1,14 @@
+{
+  "name": "primerproyecto",
+  "version": "1.0.0",
+  "description": "primer proyecto de javascript de openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ejercicio": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "saludar" : "node HolaMundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Augusto Palmese",
+  "license": "ISC"
+}
